@@ -1,18 +1,16 @@
-import React from "react";
-
 function View() {
   return (
     <>
       <div className=" mt-2 relative">
         <div className="">
-          <img src="../../public/img/bg/bg-360view.png" alt="" className="" />
+          <img src="../../img/bg/bg-360view.png" alt="" className="" />
         </div>
         <div className="absolute top-[360px] left-0 skew-y-[10deg] h-[350px] bg-gradient-to-br from-[#438cd4] from-50%  to-[#26458c]  w-full z-10"></div>
 
         <div className="absolute top-36 z-20">
-          <img src="../../public/img/car/360ViewCar.png" alt="" />
+          <img src="../../img/car/360ViewCar.png" alt="" />
           <img
-            src="../../public/360ViewButton.png"
+            src="../../360ViewButton.png"
             alt=""
             className="mt-10 hover:cursor-pointer"
           />
@@ -21,7 +19,7 @@ function View() {
 
       <div className="mt-20 relative bg-[#438cd4] h-[1000px]">
         <div className="relative z-10">
-          <img src="../../public/img/bg/Exterior.png" alt="" />
+          <img src="../../img/bg/Exterior.png" alt="" />
         </div>
         <div className="absolute top-10 px-[29px] mt-14 z-20 ">
           <div className="text-8xl">
@@ -55,13 +53,13 @@ function View() {
         <div className="  bg-gradient-to-b from-[#438cd4] from-10% to-[#26458c] w-full absolute bottom-0">
           <div className="w-[800px] flex items-center text-center text-white ">
             <img
-              src="../../public/img/icon/arrow-left.png"
+              src="../../img/icon/arrow-left.png"
               alt=""
               className="h-12 hover:cursor-pointer"
             />
             <div className="">
               <img
-                src="../../public/img/car/car1.png"
+                src="../../img/car/car1.png"
                 alt=""
                 className="relative z-10"
               />
@@ -71,7 +69,7 @@ function View() {
             </div>
             <div>
               <img
-                src="../../public/img/car/car2.png"
+                src="../../img/car/car2.png"
                 alt=""
                 className="relative z-10"
               />
@@ -80,7 +78,7 @@ function View() {
               </p>
             </div>
             <img
-              src="../../public/img/icon/arrow-right.png"
+              src="../../img/icon/arrow-right.png"
               alt=""
               className="h-12 relative z-10 hover:cursor-pointer"
             />

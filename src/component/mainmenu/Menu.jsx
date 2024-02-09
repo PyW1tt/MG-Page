@@ -1,5 +1,3 @@
-import React from "react";
-
 function Menu() {
   return (
     <div className="h-fit ">
@@ -8,7 +6,7 @@ function Menu() {
           <div className="m-0 flex items-center">
             ทดลองขับเอ็มจี
             <img
-              src="../../../public/img/icon/test-drive.png"
+              src="../../../img/icon/test-drive.png"
               alt=""
               className="h-5 w-5 ml-5"
             />
@@ -16,7 +14,7 @@ function Menu() {
           <div className="flex items-center">
             ค้นหาผู้จำหน่ายเอ็มจี
             <img
-              src="../../../public/img/icon/find-a-showroom.png"
+              src="../../../img/icon/find-a-showroom.png"
               alt=""
               className="h-5 w-4 ml-5"
             />
@@ -24,7 +22,7 @@ function Menu() {
           <div className="m-0 flex items-center">
             ค้าหาสถานีชาร์จ
             <img
-              src="../../../public/img/icon/find-charging-station-white-icon.png"
+              src="../../../img/icon/find-charging-station-white-icon.png"
               alt=""
               className="h-5 w-4 ml-5"
             />

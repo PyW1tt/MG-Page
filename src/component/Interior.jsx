@@ -1,12 +1,10 @@
-import React from "react";
-
 function Interior() {
   return (
     <>
       <div className="bg-[#26458c] flex justify-between pt-20 ">
         <div className="w-fit mx-0 ">
           <img
-            src="../../public/img/car/inside-car.png"
+            src="../../img/car/inside-car.png"
             alt=""
             className="w-[500px]  "
           />
@@ -31,29 +29,29 @@ function Interior() {
 
       <div>
         <div className="-translate-y-40 relative ">
-          <img src="../../public/img/bg/Rectangle 21.png" alt="" />
+          <img src="../../img/bg/Rectangle 21.png" alt="" />
           <div className=" absolute top-24 right-2 w-full">
             <div className="flex items-center w-[800px]">
               <img
-                src="../../public/img/icon/arrow-left(black).png"
+                src="../../img/icon/arrow-left(black).png"
                 alt=""
                 className="h-12"
               />
               <div className=" ">
-                <img src="../../public/img/car/car3.png" alt="" />
+                <img src="../../img/car/car3.png" alt="" />
                 <p className=" pt-1 text-center">
                   หน้าจอสีระบบสัมผัส <br /> ดีไซน์ใหม่ ขนาด 10 นิ้ว
                 </p>
               </div>
               <div>
-                <img src="../../public/img/car/car4.png" alt="" />
+                <img src="../../img/car/car4.png" alt="" />
                 <p className=" pt-1 text-center">
                   หน้าจอแสดงผลอัจฉริยะ <br /> แบบดิจิตอล ขนาด 7 นิ้ว
                 </p>
               </div>
 
               <img
-                src="../../public/img/icon/arrow-right(black).png"
+                src="../../img/icon/arrow-right(black).png"
                 alt=""
                 className="h-12"
               />
@@ -86,7 +84,7 @@ function Interior() {
             </div>
             <div className="-translate-y-10 relative z-10 ">
               <img
-                src="../../public/img/bg/bg-car.png"
+                src="../../img/bg/bg-car.png"
                 alt=""
                 className="h-[600px] mx-0"
               />

@@ -1,19 +1,17 @@
-import React from "react";
-
 function Header() {
   return (
     <div>
       <div className="relative w-full">
         <div className="relative z-10 pt-12">
-          <img src="../../public/img/logo/Vector Smart Object.png" alt="" />
+          <img src="../../img/logo/Vector Smart Object.png" alt="" />
           <img
-            src="../../public/img/car/Layout MG ZS Mock Up Mobile_Over-View.png"
+            src="../../img/car/Layout MG ZS Mock Up Mobile_Over-View.png"
             alt=""
             className="pt-12"
           />
         </div>{" "}
         <img
-          src="../../public/img/bg/bg-menu.png"
+          src="../../img/bg/bg-menu.png"
           alt=""
           className="absolute top-0 right-0 z-0 "
         />

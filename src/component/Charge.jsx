@@ -1,11 +1,9 @@
-import React from "react";
-
 function Charge() {
   return (
     <div className="relative mb-24">
-      <img src="../../public/img/bg/bg-blue.png" alt="" />
+      <img src="../../img/bg/bg-blue.png" alt="" />
       <div className="absolute -top-16 left-[10%]">
-        <img src="../../public/img/car/charge.png" alt="" />
+        <img src="../../img/car/charge.png" alt="" />
         <div>
           <div className="bg-clip-text text-transparent bg-gradient-to-b from-white from-40% to-[#438cd4] text-7xl tracking-widest text-center mt-10">
             <span className="font-extralight">EASY </span>
@@ -51,11 +49,7 @@ function Charge() {
               รวมค่าแรงทั้งสิ้น <br />
               ไม่เกิน 9,000 บาท
             </span>
-            <img
-              src="../../public/img/car/car-maintenance.png"
-              alt=""
-              className=""
-            />
+            <img src="../../img/car/car-maintenance.png" alt="" className="" />
           </div>
         </div>
       </div>

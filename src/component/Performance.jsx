@@ -1,20 +1,14 @@
-import React from "react";
-
 function Performance() {
   return (
     <div className="relative h-[650px]">
       <div className="-translate-y-[460px] ">
         <img
-          src="../../public/img/car/car-interior.png"
+          src="../../img/car/car-interior.png"
           alt=""
           className="relative z-10"
         />
         <div className="-translate-y-[220px] relative">
-          <img
-            src="../../public/img/bg/bg-car with road.png"
-            alt=""
-            className=" "
-          />
+          <img src="../../img/bg/bg-car with road.png" alt="" className=" " />
           <div className="px-[29px] absolute bottom-[400px] ">
             <div className=" pt-10 ">
               <div className="bg-clip-text text-transparent bg-gradient-to-b from-white from-40% to-[#438cd4] text-7xl tracking-widest">

@@ -1,9 +1,7 @@
-import React from "react";
-
 function Footer() {
   return (
     <div className="relative z-10">
-      <img src="../../public/img/footer.png" alt="" />
+      <img src="../../img/footer.png" alt="" />
     </div>
   );
 }
