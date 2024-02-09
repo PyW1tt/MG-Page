@@ -3,7 +3,6 @@ import Menu from "./component/mainmenu/Menu";
 import Header from "./component/Header";
 import View from "./component/View";
 import Interior from "./component/Interior";
-import Easy from "./component/Easy";
 import Performance from "./component/Performance";
 import Charge from "./component/Charge";
 import ISmart from "./component/ISmart";
@@ -17,7 +16,7 @@ function App() {
       <Header />
       <View />
       <Interior />
-      <Easy />
+
       <Performance />
       <Charge />
       <ISmart />
